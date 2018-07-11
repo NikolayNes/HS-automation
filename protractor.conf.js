@@ -18,6 +18,7 @@ exports.config = {
         user_pass: process.env.USER_PASSWORD,
         base_url: process.env.BASE_URL,
         locations_url: process.env.LOCATIONS_PAGE_URL,
+        account_page_url: process.env.ACCOUNT_PAGE_URL,
         wrong_email: process.env.WRONG_EMAIL,
         wrong_pass: process.env.WRONG_PASS
     },

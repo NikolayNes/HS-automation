@@ -1,0 +1,12 @@
+# dependencies
+/node_modules
+
+# e2e
+/e2e/*.js
+/e2e/*.map
+/.idea
+/reports
+npm-debug.log
+package-lock.json
+
+.env

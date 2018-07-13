@@ -1,7 +1,7 @@
 import { browser } from 'protractor';
 
 export class BasePage {
-    goToHomePage () {
+    navigateToHomePage () {
         browser.get('/');
     };
     waitLoadingElementsOnPages () {

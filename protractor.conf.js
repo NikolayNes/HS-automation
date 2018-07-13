@@ -20,7 +20,8 @@ exports.config = {
         locations_url: process.env.LOCATIONS_PAGE_URL,
         account_page_url: process.env.ACCOUNT_PAGE_URL,
         wrong_email: process.env.WRONG_EMAIL,
-        wrong_pass: process.env.WRONG_PASS
+        wrong_pass: process.env.WRONG_PASS,
+        my_current_location: process.env.MY_CURRENT_LOCATION
     },
     directConnect: true,
     framework: 'jasmine',

@@ -12,8 +12,6 @@
     "dotenv": "5.0.0",
     "jasmine": "2.5.2",
     "jasmine-spec-reporter": "2.5.0",
-    "npm": "^6.1.0",
-    "nvm": "0.0.4",
     "protractor": "5.3.2",
     "protractor-jasmine2-html-reporter": "0.0.7",
     "selenium-webdriver": "3.0.1",
